@@ -1,2 +1,2 @@
-# HelloWorld
-Simple Hello World Programm
+#Hello World Program
+print(Hello World)
